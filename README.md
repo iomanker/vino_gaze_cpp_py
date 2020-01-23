@@ -20,7 +20,7 @@ This tool, which is built on Raspberry Pi 4, wraps C++ code of GazeEstimation on
 * Eyes look at a red point and enter space at nine times.
 * [Demo Video](https://www.youtube.com/watch?v=jpyN-7Mz3jc)
 ## Test the result of calibration
-* Run: `python3 ./gazepy/TESTgaze.py`
+* Run: `python3 ./gazepy/test_calibration.py`
 * [Demo Video](https://www.youtube.com/watch?v=Q8h-14pjda0)
 ## Do it with Kafka
 For more detail in sending gaze data with Kafka, please [click here](https://github.com/jimmYA-1995/Real-time-vehicle-alarm-system).
